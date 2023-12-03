@@ -38,6 +38,6 @@ Fuera del ámbito profesional, disfruto de tocar el piano y jugar al baloncesto.
 
 ---
 
-*LinkedIn: [Elkin José Navarro Osorio](#[tu-enlace-de-linkedin](https://www.linkedin.com/in/profeelkin/))*
+*LinkedIn: [ProfeElkin](#[tu-enlace-de-linkedin](https://www.linkedin.com/in/profeelkin/))*
 
-*GitHub: [UsuarioGitHub](#[elkinnavarro](https://github.com/elkinnavarro)https://github.com/elkinnavarro)*
+*GitHub: [ElkinNavarro](#[elkinnavarro](https://github.com/elkinnavarro)https://github.com/elkinnavarro)*
