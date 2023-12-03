@@ -1,6 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/elkinnavarro/elkinnavarro/master/icon.png) Bienvenido, soy Elkin José Navarro Osorio 👋
-### Ingeniero de sistemas, Catedrático de la Universidad de Cartagena y Docente de la Institución Educativa San José No. 1.
-
+# Bienvenido, soy Elkin José Navarro Osorio 👋
 
 ## Perfil Profesional
 
